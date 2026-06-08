@@ -16,30 +16,23 @@ public class FirstLineOfCode {
 
 //		
 //		ChromeDriver driver1 = new ChromeDriver();
-//
 //		EdgeDriver driver2 = new EdgeDriver();
-//
 //		FirefoxDriver driver3 = new FirefoxDriver();
 
 //		RemoteWebDriver driver1 = new ChromeDriver();
-//
 //		RemoteWebDriver driver2 = new EdgeDriver();
-//
 //		RemoteWebDriver driver3 = new FirefoxDriver();
 
 //		WebDriver driver1 = new ChromeDriver();
-//
 //		WebDriver driver2 = new EdgeDriver();
-//
 //		WebDriver driver3 = new FirefoxDriver();
 		
 		WebDriver driver = new ChromeDriver();
-
-				driver = new EdgeDriver();
-
-				driver = new FirefoxDriver();
+					driver = new EdgeDriver();
+					driver = new FirefoxDriver();
 
 				
 	
+					
 	}
 }
