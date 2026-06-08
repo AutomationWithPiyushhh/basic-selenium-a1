@@ -9,6 +9,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 public class FirstLineOfCode {
 	public static void main(String[] args) {
 //		ctrl + space => autosuggestion
+		
 //		1. load, register and reinitialize the non static members
 //		2. start the server
 //		3. launch the empty chrome browser
