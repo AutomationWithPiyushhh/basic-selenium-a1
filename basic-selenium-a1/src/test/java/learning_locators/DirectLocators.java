@@ -23,8 +23,8 @@ public class DirectLocators {
 //		type manager in pwd field
 
 //		<input type="password" name="user-pass">
-//		WebElement password = driver.findElement(By.name("user-pass"));
-//		password.sendKeys("manager");
+		WebElement password = driver.findElement(By.name("user-pass"));
+		password.sendKeys("manager");
 
 //		driver.get("https://www.facebook.com/");
 //		
