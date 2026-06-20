@@ -24,7 +24,7 @@ public class WorkingWithWebElement {
 
 		WebElement loginBtn = driver.findElement(By.xpath("//button[contains(@id,'u_0_5_')]"));
 
-//		getter methods
+//		getter methodsbra
 		String tagOfLogin = loginBtn.getTagName();
 		String idOfLogin = loginBtn.getAttribute("id");
 		String textCase = loginBtn.getCssValue("text-transform");
